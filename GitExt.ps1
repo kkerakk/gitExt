@@ -1,0 +1,1 @@
+Get-ChildItem .\ | Out-File -Append .\Logs.txt
